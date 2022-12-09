@@ -1,5 +1,7 @@
 # BigTwo with GUI
 
+![image](https://user-images.githubusercontent.com/82456594/206697624-e2443091-4113-4fc4-b741-d48772fe5cc6.png)
+
 BigTwo is a game popular in East Asian countries. This implementation follows the following rules:
 
 • A standard 52 card pack is used.
