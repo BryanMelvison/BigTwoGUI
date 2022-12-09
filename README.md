@@ -2,7 +2,8 @@
 
 BigTwo is a game popular in East Asian countries. This implementation follows the following rules:
 
-• A standard 52 card pack is used. \n
+• A standard 52 card pack is used.
+
 • The order of ranks from high to low is 2, A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3.
 • The order of suits from high to low is Spades, Hearts, Clubs, Diamonds.
 • There are always four players in a game.
