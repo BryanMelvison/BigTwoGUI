@@ -80,3 +80,37 @@ and quads. A straight flush having a top card with a higher rank beats a straigh
 having a top card with a lower rank. For straight flushes having top cards with the
 same rank, the one having a top card with a higher suit beats the one having a top card
 with a lower suit.
+
+## GUI Components
+• Have a panel showing the cards of each player as well as the cards played on the table.
+
+• For each player, the panel should show his/her name and an avatar for him/her.
+
+• For the active player, the panel should show the faces of his/her cards.
+
+• For other players, the panel should show only the backs of their cards.
+
+• For cards played on the table, the panel should show at least (the faces of) the last
+hand of cards played on the table and the name of the player for this hand.
+
+• Allow the active player to select and deselect his/her cards by mouse clicks. The
+selected cards should be drawn in a “raised” position with respect to the rest of the
+cards (see Figure 1).
+
+• Have a “Play” button for the active player to play the selected cards.
+
+• Have a “Pass” button for the active player to pass his/her turn to the next player.
+
+• Have a text area to show the current game status as well as end of game messages.
+
+• Have a text area showing the chat messages sent by the players.
+
+• Have a text input field for the active player to send out chat messages.
+
+• Have a “Restart” menu item for restarting the game.
+
+• Have a “Quit” menu item for quitting the game.
+
+• Have a “Dummy Button” menu item for printing out motivational quotes in the Chat Area.
+
+
